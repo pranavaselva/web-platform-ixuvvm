@@ -1,0 +1,22 @@
+body {
+  background-color: antiquewhite;
+}
+#hobbies {
+  color: white;
+  background-color: black;
+}
+.list {
+  color: aqua;
+}
+.med {
+  color: brown;
+}
+.cricket {
+  color: green;
+}
+.chess {
+  color: blueviolet;
+}
+.para {
+  color: palevioletred;
+}
